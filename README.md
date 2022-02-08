@@ -4,9 +4,17 @@
 To be completed in the last module of the semester.
 
 ### Information System Components
+The components of the Information System in terms of an online Amazon purchase:
+- Hardware: the phone I use to shop.
+- Software: the Amazon Shopping app on my phone.
+- Data: the information about my Amazon account (name, addresses), the information about the product I purchase (name of product, retailer, reviews).
+- People: me as the customer, the retailer who sells me the product I need, Amazon developers who create the shopping app. 
+- Process: looking through the search bar to find the product, putting it in the cart, checking out and processing the payment to achieve the goal of buying the product I need.
 
 ### Software
 #### GitHub
+GitHub is a website and cloud-based service that acts as a code hosting platform for version control and collaboration. It allows developers to store and manage their code, track and control changes to their code, and work with other developers on projects together from anywhere. 
+GitHub employs a client-server network. GitHub acts as a central server that connects and allows its users to log into, post, and edit repositories from their PCs (the "client"). GitHub also employs cloud computing as this whole process can be done via the Internet and users are allowed to store their repositories directly on their GitHub accounts instead of their physical PCs. 
 #### Screen Capture
 #### Application, Utility, and Operating Systems
 #### ERP
