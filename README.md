@@ -14,8 +14,12 @@ The components of the Information System in terms of an online Amazon purchase:
 ### Software
 #### GitHub
 GitHub is a website and cloud-based service that acts as a code hosting platform for version control and collaboration. It allows developers to store and manage their code, track and control changes to their code, and work with other developers on projects together from anywhere. 
+
 GitHub employs a client-server network. GitHub acts as a central server that connects and allows its users to log into, post, and edit repositories from their PCs (the "client"). GitHub also employs cloud computing as this whole process can be done via the Internet and users are allowed to store their repositories directly on their GitHub accounts instead of their physical PCs. 
 #### Screen Capture
+- Soft ware utilized for screen capture: Window Snipping Tool
+- File name: ScreenCapture.JPG
+- File size: 128 KB
 #### Application, Utility, and Operating Systems
 #### ERP
 #### Virtualization
