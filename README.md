@@ -32,8 +32,18 @@ Enterprise Resource Planning (ERP) system is a business management software that
 - ERP systems include functionality that covers all the essential components of a business. 
 - Example: Oracle ERP Cloud, BizAutomation, Oracle Netsuite ERP, etc.
 #### Virtualization
-Virtualization is the process of using software to simulate a computer or some other device.
-- 
+Virtualization is the process of using software to simulate a computer or some other device. Its purpose is to:
+- Allows a single physical computer to perform the functions of several virtual computers (Virtual Machines).
+- Allows to use a physical machine’s full capacity by distributing its capabilities among many users or environments.
+- Reduces the number of physical servers needed to provide the necessary services to users.
+- Reduces the demand for electricity to run and cool the physical servers.
+
+A common IT problem solved by virtualization is operating system virtualization - it allows user to run different Operating Systems side-by-side to reduce bulk hardware costs, increase security, and limit time spent on IT services like software updates. 
+
+The role of hypervisor in virtualization:
+- Serve as the manager for the virtual environment.
+- Separate the physical resources from the virtual environments.
+- Partition the resources.
 #### Python
 #### Graphic Modeling and Rendering
 #### File Compression
