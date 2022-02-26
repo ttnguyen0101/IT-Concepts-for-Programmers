@@ -21,6 +21,10 @@ GitHub employs a client-server network. GitHub acts as a central server that con
 - File name: ScreenCapture.JPG
 - File size: 128 KB
 #### Application, Utility, and Operating Systems
+The roles of:
+- Application Software: allows users to perform tasks (e.g. Microsoft Word allows for documenting and word processing, Excel allows for making spreadsheet).
+- Utility Software: allows users to fix or modify computer in some way; created to fill shortcoming in operating systems (e.g. anti-malware software Norton).
+- Operating System Software: provides the interface between the hardware and the Application software (e.g. Microsoft Windows, Ubuntu Linux, Google Android, Apple iOS).
 #### ERP
 #### Virtualization
 #### Python
