@@ -26,6 +26,11 @@ The roles of:
 - Utility Software: allows users to fix or modify computer in some way; created to fill shortcoming in operating systems (e.g. anti-malware software Norton).
 - Operating System Software: provides the interface between the hardware and the Application software (e.g. Microsoft Windows, Ubuntu Linux, Google Android, Apple iOS).
 #### ERP
+Enterprise Resource Planning (ERP) system is a business management software that integrates all facets of a company into a single database, application, and user interface, and allows it to implement the central database throughout the entire organization.
+- ERP is an application that is used by many of an organization’s employees.
+- All users of the ERP edit and save their information from the same data source.
+- ERP systems include functionality that covers all the essential components of a business. 
+- Example: Oracle ERP Cloud, BizAutomation, Oracle Netsuite ERP, etc.
 #### Virtualization
 #### Python
 #### Graphic Modeling and Rendering
