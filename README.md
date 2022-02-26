@@ -32,6 +32,8 @@ Enterprise Resource Planning (ERP) system is a business management software that
 - ERP systems include functionality that covers all the essential components of a business. 
 - Example: Oracle ERP Cloud, BizAutomation, Oracle Netsuite ERP, etc.
 #### Virtualization
+Virtualization is the process of using software to simulate a computer or some other device.
+- 
 #### Python
 #### Graphic Modeling and Rendering
 #### File Compression
