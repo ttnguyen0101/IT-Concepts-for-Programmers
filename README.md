@@ -69,6 +69,7 @@ According to the Bureau of Labor Statistics, these are the occupations that have
 
 In May 2020, Ohio has 153,500 employments in the Computer and Mathematics industry, with the highest number of occupations being Software Developers and Software Quality Assurance Analysts and Testers. The Ohioan annual mean wage for this industry is $86,270.
 #### Handshake
+Handshake is a great tool beside LinkedIn that helps me create a professional online profile. It is also a great searching tool for internship, co-op, and job opportunities. It sends me notifications about any local hiring or meet and greet events. Despite not having much experience, there already are a few recruiters reaching out to my inbox about summer internship opportunities. I would love to add more to my Handshake profile as I progress through college. 
 #### Certifications, Certificates, and Degrees
 #### Industry Associations and Student Organizations
 
