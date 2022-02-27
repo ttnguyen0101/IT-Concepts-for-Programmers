@@ -71,7 +71,9 @@ In May 2020, Ohio has 153,500 employments in the Computer and Mathematics indust
 #### Handshake
 Handshake is a great tool beside LinkedIn that helps me create a professional online profile. It is also a great searching tool for internship, co-op, and job opportunities. It sends me notifications about any local hiring or meet and greet events. Despite not having much experience, there already are a few recruiters reaching out to my inbox about summer internship opportunities. I would love to add more to my Handshake profile as I progress through college. 
 #### Certifications, Certificates, and Degrees
-#### Industry Associations and Student Organizations
+- CompTIA: CompTIA Cybersecurity Analyst (CySA+) is a certification that covers most up-to-date core security analyst skills and upcoming job skills used by threat intelligence analysts, application security analysts, compliance analysts, incident responders/handlers, and threat hunters. It verifies candidates who can leverage intelligence and threat detection techniques, analyze and interpret data, identify and address vulnerabilities, suggest preventative measures, and effectively respond to and recover from incidents. It meets the ISO 17024 standard and is approved by U.S. Department of Defense to fulfill Directive 8570.01-M requirements. It is compliant with government regulations under the Federal Information Security Management Act (FISMA).
+- Cisco: Cisco provides certifications that prepare students, engineers, software developers for critical jobs in the networking industry. It offers four different certification career paths - Entry, Associate, Professional, and Expert. It also offers a few specialist certifications in the area of Collaboration, Data Center, Meraki Solutions, and Customer Success. 
+- CISSP: Certified Information Systems Security Professional (CISSP) certification validate the expertise of candidates and let them become an (ISC)² member. This certification is for for experienced security practitioners, managers and executives interested in proving their knowledge across a wide array of security practices and principles.
 
 ### Computer Architecture
 #### CPU
