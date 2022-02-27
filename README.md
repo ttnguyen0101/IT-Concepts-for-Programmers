@@ -75,6 +75,8 @@ Handshake is a great tool beside LinkedIn that helps me create a professional on
 - Cisco: Cisco provides certifications that prepare students, engineers, software developers for critical jobs in the networking industry. It offers four different certification career paths - Entry, Associate, Professional, and Expert. It also offers a few specialist certifications in the area of Collaboration, Data Center, Meraki Solutions, and Customer Success. 
 - CISSP: Certified Information Systems Security Professional (CISSP) certification validate the expertise of candidates and let them become an (ISC)² member. This certification is for for experienced security practitioners, managers and executives interested in proving their knowledge across a wide array of security practices and principles.
 
+I'm interested in the Programming & Development Associate Degree program from Tri-C. It is an Associate of Applied Business degree that prepares me to develop competencies in designing, implementing, integrating and maintaining software systems (including mainframes, websites, etc.) using a variety of languages and technologies. I'm also interested in obtaining a Data Analytics Certificate beside my associate degree. 
+
 ### Computer Architecture
 #### CPU
 #### Gates and Circuits
