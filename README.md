@@ -76,6 +76,8 @@ Handshake is a great tool beside LinkedIn that helps me create a professional on
 - CISSP: Certified Information Systems Security Professional (CISSP) certification validate the expertise of candidates and let them become an (ISC)² member. This certification is for for experienced security practitioners, managers and executives interested in proving their knowledge across a wide array of security practices and principles.
 
 I'm interested in the Programming & Development Associate Degree program from Tri-C. It is an Associate of Applied Business degree that prepares me to develop competencies in designing, implementing, integrating and maintaining software systems (including mainframes, websites, etc.) using a variety of languages and technologies. I'm also interested in obtaining a Data Analytics Certificate beside my associate degree. 
+#### Industry Associations and Student Organizations
+The ACM-W (Association for Computing Machinery-Women) is an organization that supports, celebrates, and advocates for Women in Computing. Its mission is to support, celebrate, and advocate internationally for the  full engagement of women in all aspects of the computing field, providing a wide range of programs and services to members and working in the larger community to advance the contributions of technical women. As a member of the ACM, students would have access to tools and resources that help advance their knowledge about the industry and latest technology, access to a network of nearly 100,000 highly dedicated students and professional peers for networking, and unique volunteering opportunities to gain hands-on experience and knowledge of the marketplace. 
 
 ### Computer Architecture
 #### CPU
