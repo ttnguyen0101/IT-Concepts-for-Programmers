@@ -50,6 +50,10 @@ Python is a high-level programming language that is simple yet powerful, easy to
 Compiled language vs Interpreted language (Python):
 - Compiled language (e.g. C, C++): before a program written in compiled language is run, it is first converted into binary code (in 0s and 1s) so the computer can understand using a compiler with various flags and options. When the program is run, the linker software copies the program from hard disk to memory and starts running it.
 - Interpreted language: programs written in interpreted language do not need to be converted into binary code and are run directly from the source code. Internally, the source code is converted into an intermediate (bytecode) and translated into the native language of the computer. This allows for programs written in interpreted language to be more portable. 
+
+Python1 is the screenshot of my experience with Python where I learn to print "Hello, MyName".
+
+Python2 is the screenshot of a short program that adds two numbers written in Python.
 #### Graphic Modeling and Rendering
 #### File Compression
 #### Artificial Intelligence
