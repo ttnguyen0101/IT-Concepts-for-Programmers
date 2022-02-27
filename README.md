@@ -60,6 +60,14 @@ Python2 is the screenshot of a short program that adds two numbers written in Py
 
 ### Career Exploration
 #### Bureau of Labor Statistics
+According to the Bureau of Labor Statistics, these are the occupations that have a 2020 median pay of $80,000 or more, a projected growth rate from 2020-2030 as faster than average, and require at least a bachelor's degree:
+- Computer & Information Research Scientists.
+- Data Scientists.
+- Information Security Analysts.
+- Software Developers and Software Quality Assurance Analysts and Testers.
+- Computer and Information Systems Managers.
+
+In May 2020, Ohio has 153,500 employments in the Computer and Mathematics industry, with the highest number of occupations being Software Developers and Software Quality Assurance Analysts and Testers. The Ohioan annual mean wage for this industry is $86,270.
 #### Handshake
 #### Certifications, Certificates, and Degrees
 #### Industry Associations and Student Organizations
