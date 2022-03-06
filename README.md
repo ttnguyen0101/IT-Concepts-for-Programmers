@@ -118,6 +118,24 @@ Why increasing RAM impacts computing speed and the difference between 64- and 32
 - RAM storage is volatile and requires power - when the computer is off, all its data is wiped away. Hard disk storage is non-volatile and does not require power - its data is not erased even when the computer is off. Computer stores data in the hard drive when it is off, and retrieves data from the hard drive when it is on. 
 
 #### Data Representation
+The difference between decimal, binary, and hexadecimal representation:
+- Decimal is a base-10 numbering system where each column represents a power of 10. It has 10 digits from 0-9.
+- Binary is a base-2 numbering system where each column represents a power of 2. It has 2 digits, 1 and 0.
+- Hexadecimal is a base-16 numbering system where each column represents a power of 16. It has both numbers from 0-9 and alphabetical characters from A-F.
+
+3DecimalConversion.png: convert decimal number 198 to binary.
+4BinaryConversion.png: convert binary number 10001101 to decimal.
+
+Explanation of the representation #ab0fff: Colors on web page are coded in #RRGGBB which specifies the intensity of red, green, and blue in a color. The intensity ranges from 0-255 in decimal or from 0-FF in hexadecimal (FF in hexadecimal is 255 in decimal). The color #ab0fff has these attributes:
+
+Color | Code | Decimal | Intensity Percent
+-|-|-|-|
+Red | ab | 171 | 67.1%
+Green | 0f | 15 | 5.9%
+Blue | ff | 255 | 100%
+
+Considering accessibility in websites, the color coded #ab0fff (vivid violet) can be problematic if used with these colors as people with color vision deficiency cannot tell them apart: dark gray, desaturated dark violet, pure blue, strong blue, dark grayish red, bright blue, and dark moderate magenta. Color contrast should be considered to increase accessibility. According to the WCAG (Web Content Accessibility Guidelines), the contrast level between text and its background should be 4.5:1 for most text and 3:1 for large text. The difference in grade between any two colors should be at least 40 to ensure enough contrast for accessibility. 
+
 #### Operating Systems
 
 ### Networking
