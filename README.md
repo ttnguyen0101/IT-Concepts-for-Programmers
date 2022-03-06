@@ -102,7 +102,21 @@ The purpose of the IEEE and their focus on ethics: The IEEE (Electrical and Elec
 - to maintain and improve our technical competence and to undertake technological tasks for others only if qualified by training or experience, or after full disclosure of pertinent limitations.
 
 #### Storage
+The difference between latency and transfer rates in the performance of a hard drive: 
+- The latency rate is the sum of seek time (the amount of time it takes a hard drive’s read/write head to find the physical location of a data on the disk) and rotational latency (the average time for the sector of the disk that is being accessed to rotate into position under the disk head after a completed seek). Latency is measured in millisecond (ms). The longer the latency, the slower the hard drive performance.
+- The transfer rate is the speed at which data is transferred to and from the disk media. It is measured in megabytes per second (MBps). The higher the transfer rate, the higher the hard drive performance.
+
+How a solid state drive (SSD) varies from a traditional hard drive: SSD stores data inside a solid state disk while traditional hard drive stores data inside a spinning disk. SSD uses flash memory instead of spinning disk; it uses Electrically Erasable Programmable Read Only Memory (EEPROM) which has no latency issue associated with the spinning disk and is much faster. The SSD is much lighter, durable, and more efficient, however it is more expensive than the traditional hard drive.
+
 #### Memory
+Why increasing RAM impacts computing speed and the difference between 64- and 32-bit data paths:
+- The CPU does not load data, programs, and instructions directly from the hard drive of the computer. Instead, when the computer is on, information from the hard drive is loaded into RAM (random access memory) before it is accessed by the CPU for further use. Increasing RAM allows the computer to have more data, programs, and instructions ready to be used, which results in faster computing speed.
+- Data path is the number of bits of data being transferred in one clock cycle. A 64-bit data path can transfer 64 bits of data per cycle, while 32-bit can transfer 32. RAM speed is determined by its data path - the higher the number of bits per cycle, the faster the speed. 
+
+2 difference between RAM and hard disk storage:
+- RAM is the working memory that stores short-term data while the hard disk stores long term data.
+- RAM storage is volatile and requires power - when the computer is off, all its data is wiped away. Hard disk storage is non-volatile and does not require power - its data is not erased even when the computer is off. Computer stores data in the hard drive when it is off, and retrieves data from the hard drive when it is on. 
+
 #### Data Representation
 #### Operating Systems
 
