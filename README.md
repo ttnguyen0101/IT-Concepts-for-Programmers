@@ -157,6 +157,17 @@ On my Windows PC, I get access to the operating system command prompt by typing 
 
 ### Software Development
 #### Algorithms
+Variables are locations in the computer’s memory where you can store a single value. In hello.py program, I created 2 new variables called myName and myAge.
+
+Assignment statement is used to store values in variables; it consists of a variable name, an equal sign (assignment operator), and the value to be stored. In hello.py program, I assign the input from the keyboard to be the value for the variable myName using the assignment statement myName = input().
+
+Function is a block of code that performs a specific task. In hello.py program, I use the print() function to print out text lines on the screen.
+
+Three data types:
+- Integer: whole numbers
+- Floating-point: numbers with decimal points.
+- String: texts or characters. 
+
 #### Object Oriented Concepts
 
 ### Database Systems
