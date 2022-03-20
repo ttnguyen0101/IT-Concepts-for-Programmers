@@ -1,4 +1,4 @@
-## Thu Nguyen/ March 6 2022
+## Thu Nguyen/ March 20 2022
 
 ## Executive Summary
 To be completed in the last module of the semester.
@@ -137,6 +137,7 @@ Blue | ff | 255 | 100%
 Considering accessibility in websites, the color coded #ab0fff (vivid violet) can be problematic if used with these colors as people with color vision deficiency cannot tell them apart: dark gray, desaturated dark violet, pure blue, strong blue, dark grayish red, bright blue, and dark moderate magenta. Color contrast should be considered to increase accessibility. According to the WCAG (Web Content Accessibility Guidelines), the contrast level between text and its background should be 4.5:1 for most text and 3:1 for large text. The difference in grade between any two colors should be at least 40 to ensure enough contrast for accessibility. 
 
 #### Operating Systems
+On my Windows PC, I get access to the operating system command prompt by typing “cmd” in the search bar. After the command prompt shows up on my screen, I type “cd” followed by the address of the designated location where I want my new folder to be. Once there, I type “mkdir IT1025” to create the new folder. I check to see whether the new folder was created by typing “dir” in the command prompt which shows all the files and folders in the current directory I am in. 
 
 ### Networking
 #### Data Transmission
