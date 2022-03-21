@@ -55,6 +55,17 @@ Python1 is the screenshot of my experience with Python where I learn to print "H
 
 Python2 is the screenshot of a short program that adds two numbers written in Python.
 #### Graphic Modeling and Rendering
+Raster image is made of tiny pixels that become apparent when the image is enlarged, causing the image to lose its quality. Raster images are best used for photography or print materials. Vector image is not made of pixels, but scalable anchored dots and connected lines, therefore it does not lose quality when being enlarged or changing size. Vector images are best used for fonts, logos, digital printing, and 2D or 3D computer animation.
+
+After a lossless compression, nothing in the original image is lost, and the compressed image will contain the same pixels as the original. After a lossy compression, the original image loses some pixels and even though the newly compressed image displays similarly, it is not the same as the original. It is important for web developers to know when to use which compression so that images on web pages can display appropriately on different browsers while not affecting the loading time.
+
+The similarities and differences between jpg, gif, and png files:
+Image type | Extension | Compression | Transparency | Animation | Colors
+-|-|-|-|-|-|
+GIF | .gif | Lossless | Yes | Yes | 256
+JPG | .jpg or .jpeg | Lossy | No | No | Millions
+PNG | .png | Lossless | Yes | No | Millions
+
 #### File Compression
 #### Artificial Intelligence
 
