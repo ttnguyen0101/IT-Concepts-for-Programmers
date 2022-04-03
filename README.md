@@ -1,4 +1,4 @@
-## Thu Nguyen/ April 2 2022
+## Thu Nguyen/ April 3 2022
 
 ## Executive Summary
 To be completed in the last module of the semester.
@@ -152,9 +152,31 @@ On my Windows PC, I get access to the operating system command prompt by typing 
 
 ### Networking
 #### Data Transmission
+- Packet: Unit of data
+- Packet-Switching: Technology that allows packets of data to be routed based on destination address
+- IP Address: Unique identifying number
+- DNS: Directory of IP address common names.  For example 54.239.26.214 might be the IP address of amazon.com
+- Protocol: Set of rules to allow devices to communicate
 #### Hardware
+a. The benefit of a switch over a hub is its ability to detect specific devices that are connected to it, to learn the physical addresses of these devices, and store their MAC addresses in its table. This ability of the switch reduces unnecessary traffic of data transmission on the bandwidth and increases security. 
+
+b. The benefit of a router over hubs and switches is its ability to read I.P addresses which allows it to connect and exchange data over the Internet with different networks instead of only the local ones. While hubs and switches are used to create local networks, routers are used to connect different networks. It acts as the gateway of a network where it routes or forwards data from one network to another based on their I.P addresses.
 #### Topologies and Types of Networks
+a. Single point of failure is a flaw in the design in which a single malfunction or fault causes the whole system to stop working. The topologies that experience this issue are star topology, ring topology, and bus topology. 
+- In star topology, if the central hub or switch fails, all the computers connected to that central point would also fail, causing the entire network to go down.
+- In ring topology, if one of the computers in the network goes down, or if there was a single break on the cable, all the data flow would be disrupted and the whole network would go down.
+- In bus topology, if there was a single open connection on either end of the cable, the data would not be transferred, causing the networking to go down.
+
+b. Infrastructure Topology and Wireless Mesh are similar in a sense that they are both the combination of wired and wireless devices. Infrastructure topology works better in small areas or buildings such as small rooms, small houses, coffee shops, etc. as these areas do not require a lot of wireless access points. Wireless Mesh works better in large buildings with different floors as setting up a wired topology in this case would require a lot of cables.
+#### Network Design
+NetworkDesign.jpeg: a combination of infrastructure and wireless mesh topology. The printer, PC, and WAP are physically connected to the router (infrastructure). The laptop is connected to the network via the WAP (wireless mesh). 
+
 #### Protocols
+A network protocol is an established set of rules that determine how data is transmitted between different devices in the same network. Essentially, it allows connected devices to communicate with each other, regardless of any differences in their internal processes, structure or design. Network protocols perform one of the three primary actions:
+1. Communication: allow different network devices to communicate with each other (e.g. routing, Bluetooth, file transfer, etc.)
+2. Network management: define and describe the various procedures needed to effectively operate a computer network (e.g. connection, link aggregation, troubleshooting).
+3. Security: ensure that the network and the data sent over the protocols are protected from unauthorized users (e.g. encryption, entity authentication, transportation).
+
 
 ### Cybersecurity and Encryption
 #### Security Triad
