@@ -180,9 +180,34 @@ A network protocol is an established set of rules that determine how data is tra
 
 ### Cybersecurity and Encryption
 #### Security Triad
+The Security Triad consists of Confidentiality, Integrity, and Availability. The impact each component has on the approach of online medical records such as MyChart is:
+- Confidentiality: access to medical records is restricted to only those who are allowed to see it, such as the patients and their specific healthcare providers.
+- Integrity: information on the medical record is not altered and truly represents its intended meaning.
+- Availability: information can be accessed and modified by anyone authorized to do so in an appropriate time frame. 
+
 #### Caesar and Polyalphabetic Ciphers
+Message: "Tri-C has a Cybersecurity Certificate"
+- Caesar Cipher encryption: tke jcu c eadgtugewtkva egtvkhkecvg
+- Polyalphabetic Cipher encryption with shift word “n”: hfwq vog o qmpsfgsqifwhm qsfhwtwqohs
+
+Using Caesar Cipher encryption, the message is applied a shift of three to each letter in the original, so A becomes D, B becomes E, C becomes F, and so on. Using Polyalphabetic Cipher encryption, a shift with a particular shift word (“n” in this case) is applied to the message; the words are converted into numbers according to the letter position in the alphabet, then each letter in the message is encrypted by shifting according to the number below it. 
+
 #### Public and Private Key Encryption
+In public key encryption, two keys are used: a public key and a private key. To send an encrypted message, you obtain the public key, encode the message, and send it. The recipient then uses their private key to decode it. The public key can be given to anyone who wishes to send the recipient a message. Each user simply needs one private key and one public key in order to secure messages. The private key is necessary in order to decrypt a message sent with the public key.
+
 #### Brute-Force Attacks
+There are several methods that can be implemented to protect against brute force attacks.
+
+For Users:
+- Use long, unique passwords.
+- Secure remote desktop connections by leaving it off as much as possible.
+- Use 2-Factor Authentication to log into accounts.
+
+For Server Operators:
+- Use rate limiting to delay hackers from trying passwords very fast.
+- Don’t use account lockouts to prevent hackers from performing a denial of service attack that locks out lots of accounts.
+- Secure SSH (Secure Shell) appropriately by enabling fail2ban, disabling password logins (in favor of SSH keys), and turning off root login from SSH.
+- Hash and salt your passwords with modern algorithms. 
 
 ### Internet Programming
 #### Components of a URL
