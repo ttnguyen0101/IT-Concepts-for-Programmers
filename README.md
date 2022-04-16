@@ -220,6 +220,9 @@ For Server Operators:
 ### Internet Programming
 #### Components of a URL
 #### World Wide Web Consortium
+Tim Berners-Lee developed the World Wide Web in 1989 to share information over the Internet in a simple way. In 1994, he founded the World Wide Web Consortium (W3C) which took a role in developing recommendations and prototypes for the Web technologies, creating web architecture, standards for web designs, and accessibility. 
+The Web of Devices standard created by the W3C focuses on technology that enables Web access anywhere, anytime, using any device. It promotes creating “One Web” that is available on any device and ensures the best user experience on mobile devices, taking into account device capabilities, location, and other context information. It promotes creating websites compatible with Voice Browsing features using the Speech Interface Framework. It also promotes Device Independence and Content Adaptation as devices come in many shapes, capabilities and sizes which define constraints on the content these devices can handle. Furthermore, it urges websites to have Multimodal Access because interactions with devices do not only happen with a keyboard, but also through voice, touch, and gesture. Last but not least, the Web of Devices standard promotes the connection of Web and TV as TVs are becoming more interactive with rich applications that are partly based on Web technologies. 
+
 
 ### Software Development
 #### Algorithms
