@@ -1,4 +1,4 @@
-## Thu Nguyen/ April 3 2022
+## Thu T Nguyen/ April 16 2022
 
 ## Executive Summary
 To be completed in the last module of the semester.
@@ -177,6 +177,14 @@ A network protocol is an established set of rules that determine how data is tra
 2. Network management: define and describe the various procedures needed to effectively operate a computer network (e.g. connection, link aggregation, troubleshooting).
 3. Security: ensure that the network and the data sent over the protocols are protected from unauthorized users (e.g. encryption, entity authentication, transportation).
 
+Hypertext Transfer Protocol (HTTP) is the protocol used to view web pages on the Internet. It is an example of the client-server model. When you type in a web address on your computer (client), HTTP is used to retrieve this web page from the web server and load it on the screen of your computer. All information is sent over the internet from your computer to the web server and back. 
+Secure HTTP uses 2 protocols to protect data:
+1. Secure socket layer (SSL): use public key encryption to secure data. SSL certificate is used to authenticate the identity of a website.
+2. Transport layer security (TLS): the latest industry standard cryptographic protocol that is based on the same specification as SSL; authenticates server, client, and encrypts data using public key encryption. 
+#### IP Address
+Internet Protocol (IP) address is the unique identifying number assigned to every device (PC, tablet, smartphone, etc.) that is connected to the Internet. IPv4 (Internet Protocol version 4) uses 32-bit (binary digit) addressing which consists of decimal number in the format of xxx.xxx.xxx.xxx, in which each xxx is a value from 0 to 255; it can offer 4 billions possible addresses. IPv6 (Internet Protocol version 6) lengthens from 32 bits to 128 bits, and consists of eight groups of four hexadecimal digits separated by a semicolon; it can offer up to 3.4 x 1038 possible addresses.
+#### ICANN
+The Internet Corporation for Assigned Names & Numbers (ICANN) is the operator of Internet Assigned Numbers Authority (IANA). It allocates IP address blocks to the five Regional Internet Registries (RIR) around the world based on globally agreed-upon rules and policies. The RIRs then allocate smaller IP address blocks to Internet Service Providers (ISP) and other network operators, which then assign individual connections to customers. 
 
 ### Cybersecurity and Encryption
 #### Security Triad
