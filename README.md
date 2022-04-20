@@ -254,6 +254,11 @@ Three data types:
 - The purpose of a constructor is to initialize data and run as soon as an object of a class is instantiated. 
 - A class is like a blueprint while an object is the actual creation from the blueprint. To “instantiate an object from a class” means to create an object that has certain attributes and functions from the class. In other terms, if the class is the recipe, then its object is the cake. 
 
+- I used the commands sammy = Shark(), stevie = Shark(), and thu = Shark() to instantiate an object from the Shark class. The instantiated objects of the Shark class are sammy, stevie, and thu.
+- In OOP, inheritance is when the child class receives all the attributes, methods, and behaviors of its parent class. In Shark.py, sammy, stevie, and thu all inherit the attributes and functions defined in the Shark class. 
+##### UML
+The Shark class diagram contains its attributes and methods. It has one private attribute which is name. It has two public methods which are swim() and be_awesome().
+
 ### Database Systems
 #### SQL, NoSQL, and Big Data Technologies
 #### Data and Business Decisions
