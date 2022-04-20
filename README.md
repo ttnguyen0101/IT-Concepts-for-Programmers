@@ -1,4 +1,4 @@
-## Thu T Nguyen/ April 16 2022
+## Thu T Nguyen/ April 20 2022
 
 ## Executive Summary
 To be completed in the last module of the semester.
@@ -67,6 +67,10 @@ JPG | .jpg or .jpeg | Lossy | No | No | Millions
 PNG | .png | Lossless | Yes | No | Millions
 
 #### File Compression
+The purpose of file compression is to group multiple files into one single zip file. The zip file lowers the total file size as they are compressed, making it easier to transfer, upload, or download these files.
+
+My original SVG graphic file is 97 KB in size. After being compressed, its zip file lowers to 53 KB in size. I would not expect there to be a big difference between a JPEG file and a zip file because some file formats, such as JPEG images and MP3s, are already compressed. These files can still be zipped, but the file size would not get much smaller. I tested this and confirmed that the difference between my original JPEG image and its zip file was only 1 KB.
+
 #### Artificial Intelligence
 
 ### Career Exploration
