@@ -1,7 +1,16 @@
 ## Thu T Nguyen/ May 8 2022
 
 ## Executive Summary
-To be completed in the last module of the semester.
+I am an IT student at Cuyahoga Community College pursuing the Associate of Applied Business degree in Programming & Development. This repository includes the lab works from my introduction class IT1025 - IT Concepts for Programmers. The topics covered in this repository are:
+- Introduction to Information Systems
+- Software and Careers in Information Technology
+- Hardware and Data Representation
+- Operating Systems, Python IDLE, and Graphics
+- Cybersecurity and Networking
+- Internet Architecture and Programming
+- Software Engineering
+- Data Analytics, Ethical and Legal Implication
+
 
 ### Information System Components
 The components of the Information System in terms of an online Amazon purchase:
@@ -31,6 +40,7 @@ Enterprise Resource Planning (ERP) system is a business management software that
 - All users of the ERP edit and save their information from the same data source.
 - ERP systems include functionality that covers all the essential components of a business. 
 - Example: Oracle ERP Cloud, BizAutomation, Oracle Netsuite ERP, etc.
+
 #### Virtualization
 Virtualization is the process of using software to simulate a computer or some other device. Its purpose is to:
 - Allows a single physical computer to perform the functions of several virtual computers (Virtual Machines).
@@ -72,6 +82,13 @@ The purpose of file compression is to group multiple files into one single zip f
 My original SVG graphic file is 97 KB in size. After being compressed, its zip file lowers to 53 KB in size. I would not expect there to be a big difference between a JPEG file and a zip file because some file formats, such as JPEG images and MP3s, are already compressed. These files can still be zipped, but the file size would not get much smaller. I tested this and confirmed that the difference between my original JPEG image and its zip file was only 1 KB.
 
 #### Artificial Intelligence
+Artificial Intelligence (AI) refers to systems or machines that mimic human intelligence to perform tasks and can iteratively improve themselves based on the information they collect. It is about the process and the capability for superpowered thinking and data analysis than it is about any particular format or function. The subfields of AI are machine learning and deep learning. Machine learning focuses on building systems that learn or improve performance based on the data they consume. Deep learning focuses on artificial neural networks (algorithms modeled to work like the human brain) that learn from large amounts of data.
+
+Developers use AI to efficiently perform tasks that are otherwise done manually, connect with customers, identify patterns, and solve problems. The skills required to become an AI developer are knowledge of programming languages (such as Python, Java, R or C++), strong mathematical skills, mastery of statistics and probability, and efficiency in adapting to tech tools. 
+
+In business, AI helps improve performance and productivity by automating processes or tasks that once required human power. It can extract meaning and pattern as well as create predictions from a large scale of data that is beyond human capability to grasp. AI can add value to business by providing a more comprehensive understanding of the abundance of data available, and creating predictions to automate excessively complex or mundane tasks. 
+
+Source: https://www.oracle.com/artificial-intelligence/what-is-ai/, https://data-flair.training/blogs/ai-developer-skills/
 
 ### Career Exploration
 #### Bureau of Labor Statistics
@@ -151,8 +168,31 @@ Blue | ff | 255 | 100%
 
 Considering accessibility in websites, the color coded #ab0fff (vivid violet) can be problematic if used with these colors as people with color vision deficiency cannot tell them apart: dark gray, desaturated dark violet, pure blue, strong blue, dark grayish red, bright blue, and dark moderate magenta. Color contrast should be considered to increase accessibility. According to the WCAG (Web Content Accessibility Guidelines), the contrast level between text and its background should be 4.5:1 for most text and 3:1 for large text. The difference in grade between any two colors should be at least 40 to ensure enough contrast for accessibility. 
 
-#### Operating Systems
+#### Operating Systems and File Management
+##### Operating Systems
+Operating systems (OS) are software that manage the hardware and create the interface between the hardware and the user. When a computer is on, the operating system is first loaded into the computer by the boot program, then it manages all the programs in the computer, including both programs native to the operating system (e.g. file and memory management) and application software. Operating systems provide these key functions:
+- Managing the hardware resources of the computer.
+- Providing the user-interface components.
+- Providing a platform for software developers to write applications.
+
+All computing devices run an operating system. Popular operating systems for personal computers are Microsoft Windows, Apple macOS, and different versions of Linux. Popular operating systems for smartphones and tablets are Apple iOS, Google Android, Microsoft Windows Mobile, and Blackberry.
+
+Source: https://bus206.pressbooks.com/chapter/chapter-3-information-systems-software/
+
 On my Windows PC, I get access to the operating system command prompt by typing “cmd” in the search bar. After the command prompt shows up on my screen, I type “cd” followed by the address of the designated location where I want my new folder to be. Once there, I type “mkdir IT1025” to create the new folder. I check to see whether the new folder was created by typing “dir” in the command prompt which shows all the files and folders in the current directory I am in. 
+##### File Management
+File management system (file manager) is a type of software that manages and maintains data file operations in a computer system. It has limited capabilities and is designed to manage individual or group files, such as special office documents and records. A file management system may contain features such as:
+- Assigning queued document numbers for processing.
+- Owner and process mapping to track various stages of processing.
+- Report generation.
+- Notes.
+- Status.
+- Create, modify, move, copy, delete and other file operations.
+- Add or edit basic metadata.
+
+The default file management system is Windows Explorer on Microsoft Windows, and Finder on Mac computers. More advanced file management systems can provide additional functions, such as document management software (DMS) which can organize important documents. Files are assigned a label or indexed according to their attributes to build a searchable database for faster retrieval.
+
+Source: https://www.techopedia.com/definition/1832/file-management-system
 
 ### Networking
 #### Data Transmission
@@ -295,6 +335,9 @@ In the tables developed above:
 
 
 ### Legal and Ethical Responsibilities in Computing
+- The purpose of a “code of ethics” is to outline a set of acceptable behaviors for a professional or social group that is generally agreed to by all members of said group. The ACM created a code for the computing discipline to provide straightforward ethical instructions as well as clarify the acceptable standards of behavior for computing professionals including academics, researchers, and practitioners.
+- The role of a trademark in defining the intellectual property is to identify a source of goods or services using a word, phrase, logo, shape or sound. It helps to protect the consumer from getting confused when there are brands with similar names. If the svg image I created became an item that identifies a source of goods or services, giving it a trademark would help customers identify the brand better and not get confused with other similar brand names. It also might be important to copyright the svg image to protect my credential as the creator of this image as well as limit it from being used by other people without my authorization. 
+- Children’s Online Privacy Protection Act (COPPA) restricts websites from collecting information from children under the age of thirteen; to comply with COPPA, organizations must make a good-faith effort to determine the age of those accessing their websites and, if users are under thirteen years old, must obtain parental consent before collecting any information. The Family Educational Rights and Privacy Act (FERPA) protects the privacy of student education records; it specifies that parents have a right to their child’s educational information until the child reaches either the age of eighteen or begins attending school beyond the high school level. The Health Insurance Portability and Accountability Act of 1996 (HIPAA) gives patients specific rights to control their medical records, requires health care providers and others who maintain this information to get specific permission in order to share it, and imposes penalties on the institutions that breach this trust.
 
 ## Conclusion
-To be completed in the last module of the semester.
+This course has allowed me to gain new knowledge about various topics of Information Systems. I also have become familiar with GitHub, finished my first repository, and picked up the basics of some programming languages such as Python and SQL. I look forward to diving deeper into these topics from more advanced IT courses in the future. 
