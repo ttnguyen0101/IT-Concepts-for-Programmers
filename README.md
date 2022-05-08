@@ -1,4 +1,4 @@
-## Thu T Nguyen/ April 20 2022
+## Thu T Nguyen/ May 8 2022
 
 ## Executive Summary
 To be completed in the last module of the semester.
@@ -261,8 +261,34 @@ The Shark class diagram contains its attributes and methods. It has one private 
 
 ### Database Systems
 #### SQL, NoSQL, and Big Data Technologies
+- Structured Query Language (SQL) is a language that is used to analyze and manipulate relational data; it can be embedded in many computer languages that are used to develop platform-independent web-based applications; it is record-locking in which only one person be able to manipulate a piece of data at a time; it does not scale well. 
+- NoSQL (“not only SQL”) is a language that can work with data in a looser way comparing to SQL, allowing for a more unstructured environment, communicating changes to the data over time to all the servers that are part of the database; it arises from the need to solve the problem of large-scale databases spread over several servers or even across the world; it is not record-locking like SQL, and it scales better than SQL. 
+
+The four “Vs” of Big Data: 
+1. Volume -refers to the size of the data.
+2. Variety - refers to heterogeneous sources and the nature of data, both structured and unstructured.
+3. Velocity - refers to the speed of generation of data.
+4. Variability - refers to the inconsistency which can be shown by the data at times, thus hampering the process of being able to handle and manage the data effectively.
+
+The demand for Big Data is driven by DMBS, social data from search engines and sites (such as Facebook, Twitter), stock exchanges, jet engines, etc.
 #### Data and Business Decisions
-#### The relational model and Normalization
+In this scenario, I am part of an IT team at a game company which wants to design a database to keep track of individual games and their authors. A well-designed database would:
+- Keep track of the games and their authors.
+- Show which game has a high volume of sale so the company knows which game genre to invest more in the future.
+- Show how much each author is earned in royalty based on the game he/she designs so the company can determine the payroll. 
+
+All the fields to be used in each table are:
+- GAME (GAME ID, NAME, VERSION NUMBER, AUTHOR ID, CATEGORY CODE)
+- AUTHOR (AUTHOR ID, NAME, MAILING ADDRESS, E-MAIL ADDRESS)
+- CATEGORY (CATEGORY CODE, DESCRIPTION)
+- ROYALTY (AUTHOR ID, GAME ID, ROYALTY PERCENTAGE)
+
+#### The Relational Model and Normalization
+In the tables developed above:
+- Primary key is used as unique identifier for the record. In this case, it is the Game ID.
+- Foreign key is used to implement a relationship between 2 tables by connecting the primary key data from another table. In this case, CATEGORY CODE is the foreign key in the GAME table. 
+- Normalization reduces data redundancy and ensures data integrity. In this case, the tables contain fields that are not repeated.
+
 #### SQL Injections
 
 ### Legal and Ethical Responsibilities in Computing
