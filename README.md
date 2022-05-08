@@ -270,7 +270,7 @@ The four “Vs” of Big Data:
 3. Velocity - refers to the speed of generation of data.
 4. Variability - refers to the inconsistency which can be shown by the data at times, thus hampering the process of being able to handle and manage the data effectively.
 
-The demand for Big Data is driven by DMBS, social data from search engines and sites (such as Facebook, Twitter), stock exchanges, jet engines, etc.
+The demand for Big Data is driven by DBMS, social data from search engines and sites (such as Facebook, Twitter), stock exchanges, jet engines, etc.
 #### Data and Business Decisions
 In this scenario, I am part of an IT team at a game company which wants to design a database to keep track of individual games and their authors. A well-designed database would:
 - Keep track of the games and their authors.
@@ -290,6 +290,9 @@ In the tables developed above:
 - Normalization reduces data redundancy and ensures data integrity. In this case, the tables contain fields that are not repeated.
 
 #### SQL Injections
+- SQL injection is the placement of malicious code in SQL statements to destroy a database. It usually occurs when you ask a user for input, like their username/user ID, and instead of a name/ID, the user gives you an SQL statement that you will unknowingly run on your database.
+- SQL parameters are used to reduce security threats from SQL injections. They are values that are added to an SQL query at execution time, in a controlled manner. The SQL engine checks each parameter to ensure that it is correct for its column and is treated literally, and not as part of the SQL to be executed.
+
 
 ### Legal and Ethical Responsibilities in Computing
 
